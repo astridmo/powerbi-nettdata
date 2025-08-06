@@ -14,7 +14,7 @@ For å få riktig URL:
 Eksempel på link til transmisjonsnett: **https://raw.githubusercontent.com/astridmo/powerbi-nettdata/refs/heads/main/assets/output/linjer_trafo_transmisjon.geojson**
 
 __Kilder:__
-Data er for kraftlinjer og transformatorstasjoner er hentet fra NVE Atlas.
+Data er for kraftlinjer og transformatorstasjoner er hentet fra NVE Atlas. Nedlastning blir gjort her: **https://nedlasting.nve.no/gis/**
 Data for kommunegrenser er hentet herfra: https://github.com/robhop/fylker-og-kommuner/tree/main 
 
 
