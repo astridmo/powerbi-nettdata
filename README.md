@@ -15,6 +15,7 @@ Eksempel på link til transmisjonsnett: **https://raw.githubusercontent.com/astr
 
 __Kilder:__
 Data er for kraftlinjer og transformatorstasjoner er hentet fra NVE Atlas. Nedlastning blir gjort her: **https://nedlasting.nve.no/gis/**
+
 Data for kommunegrenser er hentet herfra: https://github.com/robhop/fylker-og-kommuner/tree/main 
 
 
